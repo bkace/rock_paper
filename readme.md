@@ -6,5 +6,6 @@ Rules:
 1. Rock crushes Scissors 
 2. Scissors cuts Paper 
 3. Paper covers Rock. 
+
 Based on these rules, the winner is decided.
 
